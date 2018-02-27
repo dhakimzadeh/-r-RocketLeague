@@ -2,7 +2,7 @@
 
 https://www.reddit.com/r/RocketLeague/
 
-reddit CSS quest
+## reddit CSS quest
 
 Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
@@ -11,4 +11,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 
-_Thank you for your contributions!_
+_Thank you for your contributions!
